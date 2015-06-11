@@ -1,0 +1,8 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Sha1	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha1( s string ) string {$/;"	f	language:Go
+Sha1b	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha1b( b []byte ) string {$/;"	f	language:Go
+Sha256	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha256( s string ) string {$/;"	f	language:Go
+Sha256b	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha256b( b []byte ) string {$/;"	f	language:Go
+Sha512	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha512( s string ) string {$/;"	f	language:Go
+Sha512b	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^func Sha512b( b []byte ) string {$/;"	f	language:Go
+toolkit	/home/ben/gocode/src/github.com/dgmip/toolkit/default.go	/^package toolkit$/;"	p	language:Go
